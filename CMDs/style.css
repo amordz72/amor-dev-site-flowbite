@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Courier New", Courier, monospace;
+}
+
+body {
+    background: rgb(236, 231, 231);
+    color: rgb(14, 0, 0);
+    height: 100vh;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    font-size: 1.5rem;
+    overflow: hidden;
+}
+.tc {
+    text-align: center;
+}
+.mt-2 {
+    margin-top: 2rem;
+}
+

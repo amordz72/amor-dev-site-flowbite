@@ -1,0 +1,8 @@
+report:customer
+ {
+     solde:
+     sum_in, sum_out
+ }
+ btn in home
+
+ print:

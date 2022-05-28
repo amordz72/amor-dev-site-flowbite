@@ -1,0 +1,926 @@
+[
+    {
+        "id": "1JFBSy3Xd9grL4R62Amu",
+        "cust_id": "w3SgyUVAl3Gj30puiGqM",
+        "out": 300,
+        "createAt": {
+            "seconds": 1653153740,
+            "nanoseconds": 200000000
+        },
+        "desc": "تصلح",
+        "dr": -300,
+        "in": 0
+    },
+    {
+        "id": "6qIVu0C72DhrvxrIhMdD",
+        "cust_id": "1CLg47zKa3ahngjYacl0",
+        "in": 0,
+        "createAt": {
+            "seconds": 1652556889,
+            "nanoseconds": 5000000
+        },
+        "out": 520,
+        "dr": -520,
+        "desc": "فليكسي لها"
+    },
+    {
+        "id": "7cRVd4s8r4L8V8KXR61p",
+        "cust_id": "HL2rWy36cjCP2jMWlJ8u",
+        "createAt": {
+            "seconds": 1652461532,
+            "nanoseconds": 935000000
+        },
+        "out": 100,
+        "dr": -100,
+        "in": 0,
+        "desc": "صابون كير"
+    },
+    {
+        "id": "7lcotldgbMmBSLVn11Yc",
+        "dr": -520,
+        "desc": "فليكسي",
+        "in": 0,
+        "createAt": {
+            "seconds": 1652849152,
+            "nanoseconds": 127000000
+        },
+        "cust_id": "W08B7ktnx6WtrhVkVPIR",
+        "out": 520
+    },
+    {
+        "id": "90M1WlrKb7htLnANalgu",
+        "in": 0,
+        "dr": -100,
+        "cust_id": "HL2rWy36cjCP2jMWlJ8u",
+        "desc": "كوش اوان",
+        "createAt": {
+            "seconds": 1652461590,
+            "nanoseconds": 127000000
+        },
+        "out": 100
+    },
+    {
+        "id": "955chNNT7oTV8OSGNfUJ",
+        "in": 0,
+        "out": 600,
+        "createAt": {
+            "seconds": 1653068536,
+            "nanoseconds": 228000000
+        },
+        "dr": -600,
+        "desc": "باطري",
+        "cust_id": "iqPU0UhD6rSbRaRadNjd"
+    },
+    {
+        "id": "9pXCrAm1Fw7rfIoKlz8u",
+        "in": 0,
+        "dr": -1200,
+        "createAt": {
+            "seconds": 1652848979,
+            "nanoseconds": 157000000
+        },
+        "cust_id": "W08B7ktnx6WtrhVkVPIR",
+        "out": 1200,
+        "desc": "lre"
+    },
+    {
+        "id": "Am9HPeuk8lyM1BVUmv0x",
+        "dr": -1120,
+        "cust_id": "aS60sh9svXtq812br7Wv",
+        "out": 1120,
+        "desc": "قديم",
+        "createAt": {
+            "seconds": 1652894395,
+            "nanoseconds": 366000000
+        },
+        "in": 0
+    },
+    {
+        "id": "AvLL9yXvoXPbjkbC9PNR",
+        "in": 0,
+        "out": 200,
+        "cust_id": "CKvjCyRoPAtsyQ4KxcpJ",
+        "desc": "",
+        "dr": -200,
+        "createAt": {
+            "seconds": 1653327280,
+            "nanoseconds": 365000000
+        }
+    },
+    {
+        "id": "FeIYZSrXVpOWk4vZbXl1",
+        "createAt": {
+            "seconds": 1653067758,
+            "nanoseconds": 120000000
+        },
+        "dr": -520,
+        "desc": "",
+        "in": 0,
+        "cust_id": "z6MXsYG2HCuKmwERfErK",
+        "out": 520
+    },
+    {
+        "id": "GFoEkcgzMSu7wrbarHx1",
+        "dr": -1000,
+        "out": 1000,
+        "desc": "دراهم",
+        "in": 0,
+        "cust_id": "4GCXgNwis3DeXi6rlIYc",
+        "createAt": {
+            "seconds": 1652890685,
+            "nanoseconds": 0
+        }
+    },
+    {
+        "id": "GpwRaCx5zZuVJ8fi8b4f",
+        "in": 0,
+        "out": 500,
+        "dr": -500,
+        "cust_id": "HL2rWy36cjCP2jMWlJ8u",
+        "createAt": {
+            "seconds": 1652843873,
+            "nanoseconds": 287000000
+        },
+        "desc": "سلف"
+    },
+    {
+        "id": "Gw4LdIDAjXskKKnYUz9E",
+        "in": 0,
+        "out": 100,
+        "createAt": {
+            "seconds": 1653126345,
+            "nanoseconds": 342000000
+        },
+        "dr": -100,
+        "desc": "سكر",
+        "cust_id": "RLQJHbll1nowQwqnkmHN"
+    },
+    {
+        "id": "HrfB5F9uIa630PgSNSBs",
+        "in": 0,
+        "desc": "",
+        "cust_id": "O2aSvQCqaFo7QRJnwTgs",
+        "createAt": {
+            "seconds": 1653161353,
+            "nanoseconds": 469000000
+        },
+        "dr": -200,
+        "out": 200
+    },
+    {
+        "id": "IK4l6wEZkgmP99aIxQY6",
+        "desc": "خبزة",
+        "dr": -10,
+        "in": 0,
+        "createAt": {
+            "seconds": 1652872522,
+            "nanoseconds": 545000000
+        },
+        "out": 10,
+        "cust_id": "RLQJHbll1nowQwqnkmHN"
+    },
+    {
+        "id": "Jz7l4CE7JsF0yr1Cun4N",
+        "in": 0,
+        "out": 1900,
+        "desc": "قديم",
+        "createAt": {
+            "seconds": 1652849098,
+            "nanoseconds": 928000000
+        },
+        "dr": -1900,
+        "cust_id": "W08B7ktnx6WtrhVkVPIR"
+    },
+    {
+        "id": "KE5UMiMTZNwLvRTj1aN3",
+        "in": 0,
+        "out": 700,
+        "cust_id": "w3SgyUVAl3Gj30puiGqM",
+        "createAt": {
+            "seconds": 1653153695,
+            "nanoseconds": 478000000
+        },
+        "desc": "دجتال",
+        "dr": -700
+    },
+    {
+        "id": "KNBk0t1GsJLiX1uv6jnO",
+        "dr": -520,
+        "out": 520,
+        "desc": "فليكسي ",
+        "cust_id": "P35JQilfSbxLSbTyz8dk",
+        "in": 0,
+        "createAt": {
+            "seconds": 1652894476,
+            "nanoseconds": 246000000
+        }
+    },
+    {
+        "id": "M3lp9qeV6JDDLiN0cSHP",
+        "in": 0,
+        "desc": "شهر 5",
+        "out": 1000,
+        "cust_id": "HL2rWy36cjCP2jMWlJ8u",
+        "dr": -1000,
+        "createAt": {
+            "seconds": 1653023927,
+            "nanoseconds": 384000000
+        }
+    },
+    {
+        "id": "M4mSNeUCTrwkpxCcwhqq",
+        "dr": -200,
+        "createAt": {
+            "seconds": 1652979492,
+            "nanoseconds": 343000000
+        },
+        "desc": "FROD",
+        "cust_id": "RLQJHbll1nowQwqnkmHN",
+        "out": 200,
+        "in": 0
+    },
+    {
+        "id": "NOMiFhFhuWiLIa7WJNMq",
+        "createAt": {
+            "seconds": 1652979507,
+            "nanoseconds": 674000000
+        },
+        "dr": -390,
+        "in": 0,
+        "cust_id": "RLQJHbll1nowQwqnkmHN",
+        "out": 390,
+        "desc": "MASROFE"
+    },
+    {
+        "id": "Nxo2EdRMxMR0EpHLWMQQ",
+        "in": 0,
+        "cust_id": "z6MXsYG2HCuKmwERfErK",
+        "out": 600,
+        "createAt": {
+            "seconds": 1653067763,
+            "nanoseconds": 912000000
+        },
+        "desc": "سارجور",
+        "dr": -600
+    },
+    {
+        "id": "OkKIYvHUA47LLAr1eiDq",
+        "out": 210,
+        "in": 0,
+        "createAt": {
+            "seconds": 1653304951,
+            "nanoseconds": 978000000
+        },
+        "desc": "سلف",
+        "cust_id": "HL2rWy36cjCP2jMWlJ8u",
+        "dr": -210
+    },
+    {
+        "id": "Oo1Qo9HwMkwC2twZT6rt",
+        "createAt": {
+            "seconds": 1653153685,
+            "nanoseconds": 804000000
+        },
+        "in": 0,
+        "out": 300,
+        "desc": "كايل",
+        "dr": -300,
+        "cust_id": "w3SgyUVAl3Gj30puiGqM"
+    },
+    {
+        "id": "P9p0Oc5AuQlSomBcG4pH",
+        "in": 100,
+        "dr": 100,
+        "cust_id": "W08B7ktnx6WtrhVkVPIR",
+        "createAt": {
+            "seconds": 1652848998,
+            "nanoseconds": 429000000
+        },
+        "out": 0,
+        "desc": "لبدوعات"
+    },
+    {
+        "id": "PuhxoEWWSyeUJ53W2jDr",
+        "out": 60,
+        "createAt": {
+            "seconds": 1653246343,
+            "nanoseconds": 129000000
+        },
+        "dr": -60,
+        "in": 0,
+        "desc": "0663654925",
+        "cust_id": "w3SgyUVAl3Gj30puiGqM"
+    },
+    {
+        "id": "Rn3TVxeXZdUm7LmAN6vg",
+        "createAt": {
+            "seconds": 1652894430,
+            "nanoseconds": 974000000
+        },
+        "dr": -110,
+        "in": 0,
+        "cust_id": "GwYVIN9sUlhH9MDi31kw",
+        "desc": "600\n550\n500 fares\n",
+        "out": 110
+    },
+    {
+        "id": "Shvp99jnfefilRo7mHEG",
+        "dr": 600,
+        "createAt": {
+            "seconds": 1653126453,
+            "nanoseconds": 13000000
+        },
+        "in": 600,
+        "out": 0,
+        "desc": "تصليح",
+        "cust_id": "RLQJHbll1nowQwqnkmHN"
+    },
+    {
+        "id": "Sr8xmTFQzALdSE9W4JtY",
+        "desc": "",
+        "cust_id": "kavZ7m5NPzeLyLcJtSBs",
+        "out": 3000,
+        "in": 0,
+        "createAt": {
+            "seconds": 1652894519,
+            "nanoseconds": 798000000
+        },
+        "dr": -3000
+    },
+    {
+        "id": "SsLCR0xKPAH27fQPeDf7",
+        "desc": "سلف دار",
+        "cust_id": "HL2rWy36cjCP2jMWlJ8u",
+        "in": 0,
+        "dr": -100,
+        "createAt": {
+            "seconds": 1652894063,
+            "nanoseconds": 128000000
+        },
+        "out": 100
+    },
+    {
+        "id": "T1XzGUU0U5cfDWfp1yhc",
+        "out": 0,
+        "createAt": {
+            "seconds": 1653304555,
+            "nanoseconds": 745000000
+        },
+        "dr": 100,
+        "desc": "MEN SUK",
+        "in": 100,
+        "cust_id": "W08B7ktnx6WtrhVkVPIR"
+    },
+    {
+        "id": "VRnbtBkfr9QZJ534CTkz",
+        "createAt": {
+            "seconds": 1653287864,
+            "nanoseconds": 514000000
+        },
+        "out": 500,
+        "in": 0,
+        "cust_id": "RLQJHbll1nowQwqnkmHN",
+        "dr": -500,
+        "desc": "دواء للمعدة"
+    },
+    {
+        "id": "VyV9XXlP3rPGP4q38tUl",
+        "desc": "فرود",
+        "dr": -100,
+        "in": 0,
+        "createAt": {
+            "seconds": 1653126302,
+            "nanoseconds": 722000000
+        },
+        "out": 100,
+        "cust_id": "RLQJHbll1nowQwqnkmHN"
+    },
+    {
+        "id": "WNUoqIE8xzvBWAZ51w0c",
+        "dr": -550,
+        "desc": "كارط 500 انترنت",
+        "in": 0,
+        "createAt": {
+            "seconds": 1653043185,
+            "nanoseconds": 909000000
+        },
+        "out": 550,
+        "cust_id": "PsD8ucflIG0VvVXv7FzD"
+    },
+    {
+        "id": "WXMKpHWu1HshTgD0ywNx",
+        "createAt": {
+            "seconds": 1652461664,
+            "nanoseconds": 521000000
+        },
+        "out": 520,
+        "in": 0,
+        "desc": "520wafa",
+        "cust_id": "HL2rWy36cjCP2jMWlJ8u",
+        "dr": -520
+    },
+    {
+        "id": "WZDI0SyKW2fzhIRGuorO",
+        "desc": "",
+        "out": 2000,
+        "cust_id": "O2aSvQCqaFo7QRJnwTgs",
+        "createAt": {
+            "seconds": 1653161321,
+            "nanoseconds": 35000000
+        },
+        "in": 0,
+        "dr": -2000
+    },
+    {
+        "id": "WloeLVB6ZN7gXGsJPref",
+        "createAt": {
+            "seconds": 1652979470,
+            "nanoseconds": 80000000
+        },
+        "cust_id": "RLQJHbll1nowQwqnkmHN",
+        "dr": -1100,
+        "out": 1100,
+        "desc": "كيلو لحظة سيليا",
+        "in": 0
+    },
+    {
+        "id": "WvtzTZkWOdoi8GokoGG7",
+        "out": 7000,
+        "desc": "",
+        "dr": -7000,
+        "cust_id": "aCTyJqekHEySTj1hLuYO",
+        "createAt": {
+            "seconds": 1652899619,
+            "nanoseconds": 739000000
+        },
+        "in": 0
+    },
+    {
+        "id": "XuDz8we7AkEala7r6qMB",
+        "createAt": {
+            "seconds": 1652418824,
+            "nanoseconds": 692000000
+        },
+        "in": 100210,
+        "out": 0,
+        "cust_id": "4GCXgNwis3DeXi6rlIYc",
+        "dr": 100210,
+        "desc": "سلعة"
+    },
+    {
+        "id": "YsRE6UHcohnTEG8YyKfU",
+        "in": 0,
+        "desc": "",
+        "cust_id": 0,
+        "out": 0,
+        "createAt": {
+            "seconds": 1652469657,
+            "nanoseconds": 476000000
+        },
+        "dr": 0
+    },
+    {
+        "id": "bRIqrVbqaum8Dnky2fWR",
+        "out": 520,
+        "cust_id": "9u2lZZXsQli5ytDrTfjV",
+        "dr": -520,
+        "in": 0,
+        "desc": "flaxy",
+        "createAt": {
+            "seconds": 1652113475,
+            "nanoseconds": 491000000
+        }
+    },
+    {
+        "id": "ctPAgOVFMagAKf8k8Tlh",
+        "dr": -520,
+        "createAt": {
+            "seconds": 1652461557,
+            "nanoseconds": 476000000
+        },
+        "cust_id": "HL2rWy36cjCP2jMWlJ8u",
+        "in": 0,
+        "out": 520,
+        "desc": " f-wafa"
+    },
+    {
+        "id": "dA5VnCfzcdb1cHVp6MlQ",
+        "out": 520,
+        "cust_id": "1CLg47zKa3ahngjYacl0",
+        "dr": -520,
+        "in": 0,
+        "createAt": {
+            "seconds": 1652556782,
+            "nanoseconds": 254000000
+        },
+        "desc": "فلكسي"
+    },
+    {
+        "id": "dDPhAiUqY7uihSoMEN8S",
+        "out": 0,
+        "cust_id": "W08B7ktnx6WtrhVkVPIR",
+        "in": 100,
+        "createAt": {
+            "seconds": 1652979170,
+            "nanoseconds": 695000000
+        },
+        "dr": 100,
+        "desc": "كورسة ديزويت"
+    },
+    {
+        "id": "dYeVED7IMBL7oMQD5OpS",
+        "createAt": {
+            "seconds": 1652461735,
+            "nanoseconds": 521000000
+        },
+        "in": 0,
+        "desc": "120 d",
+        "dr": -120,
+        "out": 120,
+        "cust_id": "HL2rWy36cjCP2jMWlJ8u"
+    },
+    {
+        "id": "fBi8kI8O222coxvTsyB1",
+        "out": 1500,
+        "desc": "قديم",
+        "dr": -1500,
+        "in": 0,
+        "createAt": {
+            "seconds": 1652894289,
+            "nanoseconds": 35000000
+        },
+        "cust_id": "5LwqCIyXI3hjqpYW5qDc"
+    },
+    {
+        "id": "fGwbttp3ZuMEKydlPqWg",
+        "in": 0,
+        "dr": -1000,
+        "cust_id": "z6MXsYG2HCuKmwERfErK",
+        "createAt": {
+            "seconds": 1653067750,
+            "nanoseconds": 147000000
+        },
+        "desc": "بورتابل",
+        "out": 1000
+    },
+    {
+        "id": "fOKTTIg6dzpZUwV9maFd",
+        "dr": -520,
+        "desc": "",
+        "cust_id": "aS60sh9svXtq812br7Wv",
+        "in": 0,
+        "createAt": {
+            "seconds": 1653241753,
+            "nanoseconds": 760000000
+        },
+        "out": 520
+    },
+    {
+        "id": "gqTHyPloli4vb6b7tD2e",
+        "createAt": {
+            "seconds": 1653161384,
+            "nanoseconds": 791000000
+        },
+        "out": 0,
+        "dr": 60,
+        "in": 60,
+        "desc": "",
+        "cust_id": "O2aSvQCqaFo7QRJnwTgs"
+    },
+    {
+        "id": "h9Z3orquq2YAY0g6ah6m",
+        "cust_id": "5LwqCIyXI3hjqpYW5qDc",
+        "desc": "باقي من باطري",
+        "in": 0,
+        "dr": -250,
+        "createAt": {
+            "seconds": 1652899370,
+            "nanoseconds": 751000000
+        },
+        "out": 250
+    },
+    {
+        "id": "hIjTNFpTRd6aqsGjJ1no",
+        "in": 0,
+        "cust_id": "w3SgyUVAl3Gj30puiGqM",
+        "dr": -60,
+        "createAt": {
+            "seconds": 1653153704,
+            "nanoseconds": 602000000
+        },
+        "desc": "فليكسي",
+        "out": 60
+    },
+    {
+        "id": "i5Ogs0x1ef7r9FmYwhbF",
+        "desc": "120 reste flexy-wafa",
+        "dr": -120,
+        "in": 0,
+        "out": 120,
+        "cust_id": "HL2rWy36cjCP2jMWlJ8u",
+        "createAt": {
+            "seconds": 1652461605,
+            "nanoseconds": 535000000
+        }
+    },
+    {
+        "id": "jouVKoeZJaVkHRXlkXfN",
+        "dr": 200,
+        "cust_id": "RLQJHbll1nowQwqnkmHN",
+        "desc": "باطري نوكيا ربح",
+        "in": 200,
+        "out": 0,
+        "createAt": {
+            "seconds": 1653126392,
+            "nanoseconds": 33000000
+        }
+    },
+    {
+        "id": "jzuG5Ze1ErfAcnCFckv3",
+        "cust_id": "HL2rWy36cjCP2jMWlJ8u",
+        "dr": -60,
+        "desc": "60",
+        "createAt": {
+            "seconds": 1652461751,
+            "nanoseconds": 369000000
+        },
+        "out": 60,
+        "in": 0
+    },
+    {
+        "id": "k5Dx0F5WYhWyxcqwIx9c",
+        "dr": -200,
+        "in": 0,
+        "out": 200,
+        "desc": "و200",
+        "createAt": {
+            "seconds": 1653162205,
+            "nanoseconds": 465000000
+        },
+        "cust_id": "P35JQilfSbxLSbTyz8dk"
+    },
+    {
+        "id": "kAAcyZqO7NxrjDAuvva5",
+        "desc": "320 reste flexy-wafa",
+        "in": 0,
+        "cust_id": "HL2rWy36cjCP2jMWlJ8u",
+        "out": 320,
+        "dr": -320,
+        "createAt": {
+            "seconds": 1652461654,
+            "nanoseconds": 609000000
+        }
+    },
+    {
+        "id": "kchy0t8MxCwWGM6GmqHD",
+        "desc": "",
+        "in": 500,
+        "dr": 500,
+        "cust_id": "O2aSvQCqaFo7QRJnwTgs",
+        "out": 0,
+        "createAt": {
+            "seconds": 1653161335,
+            "nanoseconds": 346000000
+        }
+    },
+    {
+        "id": "kiT4OZFbXGv2bHf9GRmG",
+        "dr": -100,
+        "cust_id": "HL2rWy36cjCP2jMWlJ8u",
+        "desc": "كوش اوان",
+        "in": 0,
+        "createAt": {
+            "seconds": 1652556641,
+            "nanoseconds": 965000000
+        },
+        "out": 100
+    },
+    {
+        "id": "l2cgojq5ZZ7Qrr8Vkyb1",
+        "in": 0,
+        "dr": -110,
+        "cust_id": "ZNJJScxkAtPHMxZLC4J9",
+        "createAt": {
+            "seconds": 1653305075,
+            "nanoseconds": 553000000
+        },
+        "out": 110,
+        "desc": "فليكسي"
+    },
+    {
+        "id": "lhmOElwTNxneFMNWHcvR",
+        "cust_id": "O2aSvQCqaFo7QRJnwTgs",
+        "createAt": {
+            "seconds": 1653161373,
+            "nanoseconds": 575000000
+        },
+        "out": 60,
+        "desc": "",
+        "dr": -60,
+        "in": 0
+    },
+    {
+        "id": "mZSh8A9qkdoOhievJcUo",
+        "in": 0,
+        "desc": "فليكسي",
+        "cust_id": "x8XPBcBJEZjOP5cV2nkA",
+        "out": 100,
+        "dr": -100,
+        "createAt": {
+            "seconds": 1653079155,
+            "nanoseconds": 630000000
+        }
+    },
+    {
+        "id": "mrPxeEhWmJsenRVsPR5F",
+        "dr": -200,
+        "createAt": {
+            "seconds": 1652423846,
+            "nanoseconds": 0
+        },
+        "cust_id": "RLQJHbll1nowQwqnkmHN",
+        "out": 200,
+        "desc": "شراء دواء ميلازا",
+        "in": 0
+    },
+    {
+        "id": "nFuUYUhf85TQnsVx9fmd",
+        "in": 0,
+        "desc": "",
+        "out": 520,
+        "createAt": {
+            "seconds": 1652461768,
+            "nanoseconds": 578000000
+        },
+        "cust_id": "HL2rWy36cjCP2jMWlJ8u",
+        "dr": -520
+    },
+    {
+        "id": "nUnMlQqXEEOYhoNtnA9i",
+        "in": 0,
+        "cust_id": "HL2rWy36cjCP2jMWlJ8u",
+        "out": 2000,
+        "createAt": {
+            "seconds": 1652461781,
+            "nanoseconds": 215000000
+        },
+        "dr": -2000,
+        "desc": "2000(month_3/4)"
+    },
+    {
+        "id": "nZTvvZ459LkSTmmBaaA3",
+        "createAt": {
+            "seconds": 1653304697,
+            "nanoseconds": 930000000
+        },
+        "cust_id": "HL2rWy36cjCP2jMWlJ8u",
+        "in": 0,
+        "desc": "بيل",
+        "out": 60,
+        "dr": -60
+    },
+    {
+        "id": "pB1uhrBFfvHFZg4Mve02",
+        "out": 100,
+        "dr": -100,
+        "createAt": {
+            "seconds": 1652461347,
+            "nanoseconds": 745000000
+        },
+        "in": 0,
+        "desc": "100 banda",
+        "cust_id": "HL2rWy36cjCP2jMWlJ8u"
+    },
+    {
+        "id": "pInxwVhp0ODDqDnJw49V",
+        "in": 0,
+        "out": 850,
+        "cust_id": "4GCXgNwis3DeXi6rlIYc",
+        "desc": "قهوة",
+        "createAt": {
+            "seconds": 1652388723,
+            "nanoseconds": 185000000
+        },
+        "dr": -850
+    },
+    {
+        "id": "pJ6v69dV8opJsqRH329P",
+        "dr": -400,
+        "out": 400,
+        "in": 0,
+        "cust_id": "HL2rWy36cjCP2jMWlJ8u",
+        "desc": " kusmitice",
+        "createAt": {
+            "seconds": 1652461366,
+            "nanoseconds": 998000000
+        }
+    },
+    {
+        "id": "ps3Xt2KXUwEDviHAZF31",
+        "createAt": {
+            "seconds": 1653126337,
+            "nanoseconds": 49000000
+        },
+        "in": 0,
+        "dr": -200,
+        "desc": "كوش",
+        "out": 200,
+        "cust_id": "RLQJHbll1nowQwqnkmHN"
+    },
+    {
+        "id": "qO3JTjdkopIgKEbOaiST",
+        "out": 3000,
+        "createAt": {
+            "seconds": 1652461296,
+            "nanoseconds": 102000000
+        },
+        "cust_id": "HL2rWy36cjCP2jMWlJ8u",
+        "dr": -3000,
+        "in": 0,
+        "desc": "old (month=12+01+02)"
+    },
+    {
+        "id": "sjICdighXzdSeIx2HMty",
+        "in": 0,
+        "desc": "1000 slaf",
+        "out": 1000,
+        "createAt": {
+            "seconds": 1652461693,
+            "nanoseconds": 403000000
+        },
+        "cust_id": "HL2rWy36cjCP2jMWlJ8u",
+        "dr": -1000
+    },
+    {
+        "id": "sqFiY6dFlTGAaSvqSnmH",
+        "in": 300,
+        "dr": 250,
+        "out": 0,
+        "desc": "ذراع بارود",
+        "cust_id": "W08B7ktnx6WtrhVkVPIR",
+        "createAt": {
+            "seconds": 1652849015,
+            "nanoseconds": 233000000
+        }
+    },
+    {
+        "id": "u6YD0O89BWEhFX8wPmRK",
+        "createAt": {
+            "seconds": 1652090672,
+            "nanoseconds": 543000000
+        },
+        "desc": "سلف",
+        "out": 4000,
+        "dr": -4000,
+        "cust_id": "ISdtSgxMv0tQ0pZFT8dl",
+        "in": 0
+    },
+    {
+        "id": "vtj55J97yB3idfYE6pPB",
+        "in": 600,
+        "out": 0,
+        "createAt": {
+            "seconds": 1653153529,
+            "nanoseconds": 44000000
+        },
+        "desc": "",
+        "dr": 600,
+        "cust_id": "iqPU0UhD6rSbRaRadNjd"
+    },
+    {
+        "id": "vwC5REQNfaINtsFB9jjp",
+        "desc": "فليكسي رقم",
+        "createAt": {
+            "seconds": 1652461176,
+            "nanoseconds": 605000000
+        },
+        "dr": -60,
+        "out": 60,
+        "cust_id": "4GCXgNwis3DeXi6rlIYc",
+        "in": 0
+    },
+    {
+        "id": "wmpWKnHdLPLq3g9gl9GY",
+        "in": 0,
+        "cust_id": "w3SgyUVAl3Gj30puiGqM",
+        "dr": -60,
+        "desc": "فليكسي",
+        "createAt": {
+            "seconds": 1653335516,
+            "nanoseconds": 629000000
+        },
+        "out": 60
+    },
+    {
+        "id": "y50r7tyK8QGJPjHhzUcn",
+        "cust_id": "HL2rWy36cjCP2jMWlJ8u",
+        "createAt": {
+            "seconds": 1652461628,
+            "nanoseconds": 272000000
+        },
+        "dr": -150,
+        "desc": "150 kuch nsaa",
+        "out": 150,
+        "in": 0
+    }
+]

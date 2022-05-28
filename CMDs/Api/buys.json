@@ -1,0 +1,62 @@
+{
+    "categories": {
+        "name": "تصنيف1"
+    },
+    "items": {
+        "name": "صنف1"
+    },
+    "pricess": {
+        "item_id": 1,
+        "priceADown": 0,
+        "priceA": 0,
+        "priceSDown": 0,
+        "priceS": 0
+    },
+    "hisabs": {
+        "name": "hisab_1"
+    },
+    "profile": {
+        "hisab_id": 1,
+        "address": "",
+        "email": ""
+    },
+    "phones": {
+        "hisab_id": 1,
+        "phoneM": "",
+        "phoneD": "",
+        "phoneN": "",
+        "fix": ""
+    },
+    "docs": {
+        "name": "-مشتريات"
+    },
+    "pays": {
+        "name": "نقد-اجل-بطاقة"
+    },
+    "factors": {
+        "createAt": "01/01/2001",
+        "doc_id": 1,
+        "hisab_id": 1,
+        "total": 0,
+        "discount": 0,
+        "net": 0,
+        "in": 0,
+        "out": 0,
+        "reste": 0
+    },
+    "moves": {
+        "item_id": 1,
+        "qty": 0,
+        "priceA": 0,
+        "totalA": 0,
+        "priceS": 0,
+        "totalS": 0
+    },
+    "receipts": {
+        "hisab_id": 1,
+        "doc_id": 1,
+        "createAt": "01/01/2001",
+        "in": 0,
+        "out": 0
+    }
+}
