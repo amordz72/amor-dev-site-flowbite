@@ -6,7 +6,7 @@
 </template>
  
 <script>
-import  ModelAuth  from "../components/Auth.vue";
+import  ModelAuth  from "../components/AuthModel.vue";
 
 export default {
   name: "HomeView",
