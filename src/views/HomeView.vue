@@ -1,7 +1,7 @@
 <template>
   <div class=" ">
     Home
- <ModelAuth></ModelAuth>
+ <!-- <ModelAuth></ModelAuth> -->
   </div>
 </template>
  
