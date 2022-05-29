@@ -1,7 +1,13 @@
 <template>
   <div class=" ">
-    Home
- <!-- <ModelAuth></ModelAuth> -->
+    
+          <div class="d-flex">
+          
+            <h4 class="text-2xl font-bold mb-2">Dashboard
+              
+            </h4>  
+        </div>
+   <!----> 
   </div>
 </template>
  
